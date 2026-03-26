@@ -1,6 +1,10 @@
 
 # Spirolateral-Generator
-### About the Project
+
+### About the project 
+This project uses an algorithm to generate spirolateral patterns from a sequence of lengths and angles. It applies mathematical rules of geometry to draw each step and determine the direction of the next line. Users can change the parameters to explore how different patterns form.
+
+### Instructions
 The user can click or slide on the angle and segment bar in order to move the knob. If you want to click to move the
 knob, the click has to be on the slider/angle bar. To drag the knob, you hold down the mouse by
 the black knob and slide it across the bar. The mouse can be a little above or below the knob
