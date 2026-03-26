@@ -1,7 +1,6 @@
 # Spirolateral-Generator
 ### About the Project
-The user can click or slide on the angle and segment bar in order to move the knob. In order to
-slide you have to be holding down on the mouse and sliding. If you want to click to move the
+The user can click or slide on the angle and segment bar in order to move the knob. If you want to click to move the
 knob, the click has to be on the slider/angle bar. To drag the knob, you hold down the mouse by
 the black knob and slide it across the bar. The mouse can be a little above or below the knob
 while sliding.
