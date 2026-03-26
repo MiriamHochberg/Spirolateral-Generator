@@ -2,6 +2,8 @@
 # Spirolateral Generator
 
 ### About the project 
+COMP 1300 Final Project - Fall 2025
+
 This project uses an algorithm to generate spirolateral patterns from a sequence of lengths and angles. It applies mathematical rules of geometry to draw each step and determine the direction of the next line. Users can change the parameters to explore how different patterns form.
 
 ### Instructions
